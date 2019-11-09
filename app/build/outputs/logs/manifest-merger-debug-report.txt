@@ -11,6 +11,7 @@ MERGED from [androidx.ui:ui-foundation:0.1.0-dev02] /home/yurii/.gradle/caches/t
 MERGED from [androidx.ui:ui-animation:0.1.0-dev02] /home/yurii/.gradle/caches/transforms-2/files-2.1/4749940a540394db30834874cae0e1c1/jetified-ui-animation-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.ui:ui-layout:0.1.0-dev02] /home/yurii/.gradle/caches/transforms-2/files-2.1/5056753dbd9c5b542628a8b72af116e2/jetified-ui-layout-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.ui:ui-tooling:0.1.0-dev02] /home/yurii/.gradle/caches/transforms-2/files-2.1/1a43669ccdbf02bf36d743f7ded96390/jetified-ui-tooling-0.1.0-dev02/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/190434d8e89a734ef4339166661eb31d/lifecycle-extensions-2.1.0/AndroidManifest.xml:17:1-25:12
 MERGED from [androidx.ui:ui-framework:0.1.0-dev02] /home/yurii/.gradle/caches/transforms-2/files-2.1/629ef1f29e731f9579b8f494c3589169/jetified-ui-framework-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.ui:ui-platform:0.1.0-dev02] /home/yurii/.gradle/caches/transforms-2/files-2.1/4db3f726467d6aef45f7f2d50a7da342/jetified-ui-platform-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.ui:ui-text:0.1.0-dev02] /home/yurii/.gradle/caches/transforms-2/files-2.1/0fa03fc4438587c9c3ab72c880e3e8bc/jetified-ui-text-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
@@ -31,14 +32,16 @@ MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/yurii/.gradle/c
 MERGED from [androidx.customview:customview:1.0.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/226cef7af3f65d8e1feb6e2a265f88bf/customview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/ec4df20c44042760ddced03ead47e8bd/core-1.1.0/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/0607d870d638e0bbda4c9df15494b171/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/4f85b611fc4af09a5c0c5c6904ae532c/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/f592ab31c170c9ea7f89ed7251dc6e95/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/12fb6a1dcbee9cb4a60928ff42406450/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/db549b1698276c3bccb5a258c62911c8/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/15670e8f0b3a4e7c806fc67f39eca770/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/cd57a459cacf7e8a6b962de8fcdd6ec0/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/6a66838f8b39a1208bab42bc34622c7e/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/985f7ba634063d0838b4fe879bb3ae85/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/4aec97424f2137a43f8dfe1ef0aee820/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/15670e8f0b3a4e7c806fc67f39eca770/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/4f85b611fc4af09a5c0c5c6904ae532c/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/76f3f6aae4dab4a59df0b1fab21aeacd/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/f4a193b1a276be068b4456f76f1d9b3b/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/8ac534f7c05da7c0171fdbd7104f80bd/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/37d850288f46f406dcc61b14878a80f8/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/6e60ce21f38813450769c2550284c4c8/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/252460a0d4062d0394772b8bf427fa69/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/4bc44d24a4a8a06933969626556211ed/print-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -64,8 +67,12 @@ application
 ADDED from /home/yurii/AndroidStudioProjects/JetpackComposeDemo1/app/src/main/AndroidManifest.xml:5:5-22:19
 MERGED from [androidx.ui:ui-tooling:0.1.0-dev02] /home/yurii/.gradle/caches/transforms-2/files-2.1/1a43669ccdbf02bf36d743f7ded96390/jetified-ui-tooling-0.1.0-dev02/AndroidManifest.xml:24:5-20
 MERGED from [androidx.ui:ui-tooling:0.1.0-dev02] /home/yurii/.gradle/caches/transforms-2/files-2.1/1a43669ccdbf02bf36d743f7ded96390/jetified-ui-tooling-0.1.0-dev02/AndroidManifest.xml:24:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/190434d8e89a734ef4339166661eb31d/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/190434d8e89a734ef4339166661eb31d/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.core:core:1.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/ec4df20c44042760ddced03ead47e8bd/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/ec4df20c44042760ddced03ead47e8bd/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/f592ab31c170c9ea7f89ed7251dc6e95/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/f592ab31c170c9ea7f89ed7251dc6e95/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/4f85b611fc4af09a5c0c5c6904ae532c/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/4f85b611fc4af09a5c0c5c6904ae532c/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
@@ -118,6 +125,8 @@ MERGED from [androidx.ui:ui-layout:0.1.0-dev02] /home/yurii/.gradle/caches/trans
 MERGED from [androidx.ui:ui-layout:0.1.0-dev02] /home/yurii/.gradle/caches/transforms-2/files-2.1/5056753dbd9c5b542628a8b72af116e2/jetified-ui-layout-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.ui:ui-tooling:0.1.0-dev02] /home/yurii/.gradle/caches/transforms-2/files-2.1/1a43669ccdbf02bf36d743f7ded96390/jetified-ui-tooling-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.ui:ui-tooling:0.1.0-dev02] /home/yurii/.gradle/caches/transforms-2/files-2.1/1a43669ccdbf02bf36d743f7ded96390/jetified-ui-tooling-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/190434d8e89a734ef4339166661eb31d/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/190434d8e89a734ef4339166661eb31d/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.ui:ui-framework:0.1.0-dev02] /home/yurii/.gradle/caches/transforms-2/files-2.1/629ef1f29e731f9579b8f494c3589169/jetified-ui-framework-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.ui:ui-framework:0.1.0-dev02] /home/yurii/.gradle/caches/transforms-2/files-2.1/629ef1f29e731f9579b8f494c3589169/jetified-ui-framework-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.ui:ui-platform:0.1.0-dev02] /home/yurii/.gradle/caches/transforms-2/files-2.1/4db3f726467d6aef45f7f2d50a7da342/jetified-ui-platform-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
@@ -158,22 +167,26 @@ MERGED from [androidx.core:core:1.1.0] /home/yurii/.gradle/caches/transforms-2/f
 MERGED from [androidx.core:core:1.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/ec4df20c44042760ddced03ead47e8bd/core-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/0607d870d638e0bbda4c9df15494b171/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/0607d870d638e0bbda4c9df15494b171/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/4f85b611fc4af09a5c0c5c6904ae532c/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/4f85b611fc4af09a5c0c5c6904ae532c/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/f592ab31c170c9ea7f89ed7251dc6e95/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/f592ab31c170c9ea7f89ed7251dc6e95/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/12fb6a1dcbee9cb4a60928ff42406450/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/12fb6a1dcbee9cb4a60928ff42406450/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/db549b1698276c3bccb5a258c62911c8/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/db549b1698276c3bccb5a258c62911c8/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/15670e8f0b3a4e7c806fc67f39eca770/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/15670e8f0b3a4e7c806fc67f39eca770/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/cd57a459cacf7e8a6b962de8fcdd6ec0/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/cd57a459cacf7e8a6b962de8fcdd6ec0/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/6a66838f8b39a1208bab42bc34622c7e/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/6a66838f8b39a1208bab42bc34622c7e/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/985f7ba634063d0838b4fe879bb3ae85/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/985f7ba634063d0838b4fe879bb3ae85/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/4aec97424f2137a43f8dfe1ef0aee820/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/4aec97424f2137a43f8dfe1ef0aee820/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/15670e8f0b3a4e7c806fc67f39eca770/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/15670e8f0b3a4e7c806fc67f39eca770/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/4f85b611fc4af09a5c0c5c6904ae532c/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/4f85b611fc4af09a5c0c5c6904ae532c/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/76f3f6aae4dab4a59df0b1fab21aeacd/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/76f3f6aae4dab4a59df0b1fab21aeacd/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/f4a193b1a276be068b4456f76f1d9b3b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/f4a193b1a276be068b4456f76f1d9b3b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/8ac534f7c05da7c0171fdbd7104f80bd/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/8ac534f7c05da7c0171fdbd7104f80bd/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/37d850288f46f406dcc61b14878a80f8/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/37d850288f46f406dcc61b14878a80f8/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/6e60ce21f38813450769c2550284c4c8/documentfile-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/6e60ce21f38813450769c2550284c4c8/documentfile-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/252460a0d4062d0394772b8bf427fa69/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
@@ -192,3 +205,13 @@ INJECTED from /home/yurii/AndroidStudioProjects/JetpackComposeDemo1/app/src/main
 		INJECTED from /home/yurii/AndroidStudioProjects/JetpackComposeDemo1/app/src/main/AndroidManifest.xml
 		ADDED from /home/yurii/AndroidStudioProjects/JetpackComposeDemo1/app/src/main/AndroidManifest.xml
 		INJECTED from /home/yurii/AndroidStudioProjects/JetpackComposeDemo1/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/f592ab31c170c9ea7f89ed7251dc6e95/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/f592ab31c170c9ea7f89ed7251dc6e95/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/f592ab31c170c9ea7f89ed7251dc6e95/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/f592ab31c170c9ea7f89ed7251dc6e95/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/yurii/.gradle/caches/transforms-2/files-2.1/f592ab31c170c9ea7f89ed7251dc6e95/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
