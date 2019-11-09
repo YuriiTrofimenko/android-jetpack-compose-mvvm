@@ -12,22 +12,20 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            MaterialTheme {
-                Greeting("Android")
-            }
+            NewsStory()
         }
     }
 }
 
 @Composable
-fun Greeting(name: String) {
-    Text(text = "Hello $name!")
+fun NewsStory() {
+    Text("A day in Shark Fin Cove")
+    Text("Davenport, California")
+    Text("December 2018")
 }
 
 @Preview
 @Composable
 fun DefaultPreview() {
-    MaterialTheme {
-        Greeting("Android")
-    }
+    NewsStory()
 }
