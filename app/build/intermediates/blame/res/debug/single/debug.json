@@ -4,6 +4,10 @@
         "source": "/home/yurii/AndroidStudioProjects/JetpackComposeDemo1/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
+        "merged": "/home/yurii/AndroidStudioProjects/JetpackComposeDemo1/app/build/intermediates/res/merged/debug/mipmap-xhdpi_header.png.flat",
+        "source": "/home/yurii/AndroidStudioProjects/JetpackComposeDemo1/app/src/main/res/mipmap-xhdpi/header.png"
+    },
+    {
         "merged": "/home/yurii/AndroidStudioProjects/JetpackComposeDemo1/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
         "source": "/home/yurii/AndroidStudioProjects/JetpackComposeDemo1/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
