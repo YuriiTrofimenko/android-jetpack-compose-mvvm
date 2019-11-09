@@ -10,9 +10,7 @@ import androidx.ui.core.Text
 import androidx.ui.core.dp
 import androidx.ui.core.setContent
 import androidx.ui.foundation.DrawImage
-import androidx.ui.layout.Column
-import androidx.ui.layout.LayoutSize
-import androidx.ui.layout.Spacing
+import androidx.ui.layout.*
 import androidx.ui.material.MaterialTheme
 import androidx.ui.res.imageResource
 import androidx.ui.tooling.preview.Preview
@@ -34,7 +32,10 @@ fun NewsStory() {
         crossAxisSize = LayoutSize.Expand,
         modifier=Spacing(16.dp)
     ) {
-        DrawImage(image)
+        Container(expanded = true, height = 180.dp) {
+            DrawImage(image)
+        }
+        HeightSpacer(16.dp)
         Text("A day in Shark Fin Cove")
         Text("Davenport, California")
         Text("December 2018")
