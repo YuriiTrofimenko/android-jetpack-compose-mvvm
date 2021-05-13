@@ -4,7 +4,7 @@
             "outputFile": "/home/yurii/AndroidStudioProjects/JetpackComposeDemo1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
             "map": [
                 {
-                    "source": "/home/yurii/.gradle/caches/transforms-2/files-2.1/a582fa6f5ec25b4ebdf31a91e28d5f0d/appcompat-1.1.0/res/values-v26/values-v26.xml",
+                    "source": "/home/yurii/.gradle/caches/transforms-2/files-2.1/fbc5eb329f3155b18f480310e5aa87fd/appcompat-1.1.0/res/values-v26/values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",
