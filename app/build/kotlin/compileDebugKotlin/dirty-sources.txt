@@ -1,0 +1,4 @@
+/home/yurii/AndroidStudioProjects/JetpackComposeDemo1/app/src/main/java/org/tyaa/jetpackcomposedemo1/RandomNumbersModel.kt
+/home/yurii/AndroidStudioProjects/JetpackComposeDemo1/app/src/main/java/org/tyaa/jetpackcomposedemo1/MainViewModel.kt
+/home/yurii/AndroidStudioProjects/JetpackComposeDemo1/app/src/main/java/org/tyaa/jetpackcomposedemo1/CustomWidgets.kt
+/home/yurii/AndroidStudioProjects/JetpackComposeDemo1/app/src/main/java/org/tyaa/jetpackcomposedemo1/MainActivity.kt
